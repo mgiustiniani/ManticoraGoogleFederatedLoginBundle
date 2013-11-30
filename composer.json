@@ -1,6 +1,8 @@
 {
     "name": "manticora/google-federated-login-bundle",
     "description": "Google Federated Login",
+    "keywords": ["Security", "OpenId", "Authentication","Google", "Google Apps"],
+    "homepage": "https://github.com/mgiustiniani/ManticoraGoogleFederatedLoginBundle",
     "require": {
         "fp/openid-bundle": "dev-master"
     },
