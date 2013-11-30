@@ -7,7 +7,7 @@
  * To change this template use File | Settings | File Templates.
  */
 
-namespace Manticora\GoogleFederatedLoginBundle\Security\RelyngParty;
+namespace Manticora\GoogleFederatedLoginBundle\Security\RelyingParty;
 
 
 use Fp\OpenIdBundle\Bridge\RelyingParty\LightOpenIdRelyingParty;
