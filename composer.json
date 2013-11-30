@@ -1,0 +1,15 @@
+{
+    "name": "manticora/google-federated-login-bundle",
+    "description": "Google Federated Login",
+    "require": {
+        "fp/openid-bundle": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mario Giustiniani",
+            "email": "mariogiustiniani@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
