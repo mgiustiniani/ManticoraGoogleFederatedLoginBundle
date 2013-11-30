@@ -1,7 +1,12 @@
-ManticoraGoogleFederatedLoginBundle
+ManticoraGoogleFederatedLoginBundle [![Build Status](https://travis-ci.org/mgiustiniani/ManticoraGoogleFederatedLoginBundle.png?branch=master)](https://travis-ci.org/mgiustiniani/ManticoraGoogleFederatedLoginBundle)
 =========
 
-[![knpbundles.com](http://knpbundles.com/mgiustiniani/ManticoraGoogleFederatedLoginBundle/badge)](http://knpbundles.com/mgiustiniani/ManticoraGoogleFederatedLoginBundle)
+[![Latest Stable Version](https://poser.pugx.org/manticora/google-federated-login-bundle/v/stable.png)](https://packagist.org/packages/manticora/google-federated-login-bundle)
+[![Latest Unstable Version](https://poser.pugx.org/manticora/google-federated-login-bundle/v/unstable.png)](https://packagist.org/packages/manticora/google-federated-login-bundle)
+[![Total Downloads](https://poser.pugx.org/manticora/google-federated-login-bundle/downloads.png)](https://packagist.org/packages/manticora/google-federated-login-bundle)
+
+[![knpbundles.com](http://knpbundles.com/mgiustiniani/ManticoraGoogleFederatedLoginBundle/badge-short)](http://knpbundles.com/mgiustiniani/ManticoraGoogleFederatedLoginBundle)
+
 
 this bundle add a relay party Implementation of FpOpenIdBundle for Google App Federated login
 
@@ -18,7 +23,7 @@ Add the following lines in your `composer.json` file:
 ```json
 {
     "require": {
-        "fp/openid-bundle": "dev-master"
+        "manticora/google-federated-login-bundle": "dev-master"
     }
 }
 ```
