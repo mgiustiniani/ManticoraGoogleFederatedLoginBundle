@@ -4,6 +4,10 @@
     "require": {
         "fp/openid-bundle": "dev-master"
     },
+
+    "autoload": {
+        "psr-0": { "Manticora\\GoogleFederatedLoginBundle": "" }
+    },
     "license": "MIT",
     "authors": [
         {
