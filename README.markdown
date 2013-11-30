@@ -118,3 +118,7 @@ security:
 
 ManticoraGoogleFederatedLoginBundle is released under the MIT License. See the bundled LICENSE file for
 details.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mgiustiniani/manticoragooglefederatedloginbundle/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
