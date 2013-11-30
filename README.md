@@ -57,7 +57,7 @@ manticora_google_federated_login:
  Follow other instructions [FpOpenIdBundle](https://github.com/formapro/FpOpenIdBundle)
 
 ### Step5: Configure OpenId for your domain
- Follow (How to Setup OpenID with Google Apps)(http://jeremiahlee.com/blog/2009/09/28/how-to-setup-openid-with-google-apps/)
+ Follow [How to Setup OpenID with Google Apps](http://jeremiahlee.com/blog/2009/09/28/how-to-setup-openid-with-google-apps/)
 
 ### Step6: Add RelayParty in FpOpenId security.yml config
 add relying_party:
