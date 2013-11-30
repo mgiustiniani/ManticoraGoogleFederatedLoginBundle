@@ -78,7 +78,7 @@ security:
             pattern:    ^/admin #example path
             fp_openid:
                 ...
-                relying_party:                manticora_google_federated_login.relay_party
+                relying_party:                manticora_google_federated_login.relying_party
 ```
 
 add required_attributes:
@@ -107,7 +107,7 @@ security:
                 provider: openid_user_manager # cf below
                 login_path:                   /admin/login_openid
                 check_path:                   /admin/login_check_openid
-                relying_party:                manticora_google_federated_login.relay_party
+                relying_party:                manticora_google_federated_login.relying_party
                 required_attributes:
                     [ contact/email, namePerson/first, namePerson/last, namePerson ]
 ```
