@@ -7,13 +7,13 @@
  * To change this template use File | Settings | File Templates.
  */
 
-namespace Manticora\GoogleFederatedLoginBundle\Security\RelayParty;
+namespace Manticora\GoogleFederatedLoginBundle\Security\RelyingParty;
 
 
 use Fp\OpenIdBundle\Bridge\RelyingParty\LightOpenIdRelyingParty;
 use Symfony\Component\HttpFoundation\Request;
 
-class RelayParty  extends LightOpenIdRelyingParty {
+class RelyingParty  extends LightOpenIdRelyingParty {
 
     private  $domain;
 

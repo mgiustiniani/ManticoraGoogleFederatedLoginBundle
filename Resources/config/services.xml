@@ -6,14 +6,14 @@
 
 
     <parameters>
-        <parameter key="manticora_google_federated_login.relay_party.class">Manticora\GoogleFederatedLoginBundle\Security\RelayParty\RelayParty</parameter>
+        <parameter key="manticora_google_federated_login.relying_party.class">Manticora\GoogleFederatedLoginBundle\Security\RelyingParty\RelyingParty</parameter>
         <parameter key="manticora_google_federated_login.domain"/>
     </parameters>
 
     <services>
 
 
-        <service id="manticora_google_federated_login.relay_party" class="%manticora_google_federated_login.relay_party.class%">
+        <service id="manticora_google_federated_login.relying_party" class="%manticora_google_federated_login.relying_party.class%">
             <argument>%manticora_google_federated_login.domain%</argument>
         </service>
     </services>
