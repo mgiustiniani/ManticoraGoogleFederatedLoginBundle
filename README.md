@@ -1,6 +1,8 @@
 ManticoraGoogleFederatedLoginBundle
 =========
 
+[![knpbundles.com](http://knpbundles.com/mgiustiniani/ManticoraGoogleFederatedLoginBundle/badge)](http://knpbundles.com/mgiustiniani/ManticoraGoogleFederatedLoginBundle)
+
 this bundle add a relay party Implementation of FpOpenIdBundle for Google App Federated login
 
 ## Usage
