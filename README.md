@@ -1,0 +1,4 @@
+ManticoraGoogleFederatedLoginBundle
+===================================
+
+ManticoraGoogleFederatedLoginBundle
