@@ -1,5 +1,5 @@
 ManticoraGoogleFederatedLoginBundle 
-=========
+===================================
 
 [![Build Status](https://travis-ci.org/mgiustiniani/ManticoraGoogleFederatedLoginBundle.png?branch=master)](https://travis-ci.org/mgiustiniani/ManticoraGoogleFederatedLoginBundle)
 [![Latest Stable Version](https://poser.pugx.org/manticora/google-federated-login-bundle/v/stable.png)](https://packagist.org/packages/manticora/google-federated-login-bundle)
